@@ -8,7 +8,7 @@
 > All we have to decide is what to do with the time that is given to us.
 \- J.R.R. Tolkien
 
-`System.out.println("Hello!");` My name is Chris Baucke, and I am a junior in Warren College majoring in computer science. Here is my dog, [Grace](Grace.jpg), and my cat, [Charlie](Charlie.jpg).
+`System.out.println("Hello!");` My name is Chris Baucke, and I am a junior at UCSD majoring in computer science. Here is my dog, [Grace](Grace.jpg), and my cat, [Charlie](Charlie.jpg).
 
 I am very excited to take this course! By the end of the quarter, I hope to:
 - [ ] Become completely familiar with GitHub/git
@@ -41,6 +41,6 @@ In my spare time, I enjoy:
 - Playing *Magic: The Gathering*: I enjoy playing commander in person and historic online
 
 <img src="mtg.jpg" width="400">
-- Playing video games: Recently, I have been playing Minecraft and CS:GO
+- Programming: As previously stated, I participated in a hackathon earlier this year, and I am currently working on developing a video game with a friend
 
-<img src="minecraft.jpg" width="400">
+<img src="code.jpg" width="400">
