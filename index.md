@@ -27,10 +27,14 @@ Earlier this year, I participated in my first hackathon at SD Hacks, and my team
 ## My Hobbies
 In my spare time, I enjoy:
 - Reading: During the pandemic, I have read books such as *Jurassic Park* and *Dune*
-![Dune](Dune.jpg)
+
+![Dune](Dune.jpg =250x)
 - Playing soccer: I have not played in a while, but I have played recreational soccer for more than 10 years, usually as a left midfielder or forward
-![Soccer ball](soccer.jpg)
+
+![Soccer ball](soccer.jpg =250x)
 - Playing *Magic: The Gathering*: I enjoy playing commander in person and historic online
-![Mtg](mtg.jpg)
+
+![Mtg](mtg.jpg =250x)
 - Playing video games: Recently, I have been playing Minecraft and CS:GO
-![Minecraft](minecraft.jpg)
+
+![Minecraft](minecraft.jpg =250x)
