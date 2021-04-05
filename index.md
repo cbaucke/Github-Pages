@@ -1,7 +1,7 @@
 # **Chris Baucke's User Page**
 Hello! My name is Chris Baucke, and I am a junior in Warren College majoring in computer science.
 
-Here is my dog, [Grace](Grace.JPG), and my cat, [Charlie](Charlie.JPG).
+Here is my dog, [Grace](Grace.jpg), and my cat, [Charlie](Charlie.jpg).
 
 ## Me as a Programmer
 My favorite programming language is Java, although I am also comfortable in all of the following languages:
