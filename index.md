@@ -1,4 +1,10 @@
 # **Chris Baucke's User Page**
+## Table of Contents
+- [Introduction](#introduction)
+- [Me as a Programmer](#me-as-a-programmer)
+- [My Hobbies](#my-hobbies)
+
+## Introduction
 > All we have to decide is what to do with the time that is given to us.
 \- J.R.R. Tolkien
 
@@ -17,7 +23,7 @@ My favorite programming language is Java, although I am also comfortable in all 
 - JavaScript
 - ARM
 
-After graduating, my top career fields (in ascending order) would be:
+After graduating, my top career fields (from first to last choice) would be:
 1. AI/Machine Learning
 2. Cyber Security
 3. Game Development
